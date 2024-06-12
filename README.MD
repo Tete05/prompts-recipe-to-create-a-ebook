@@ -14,7 +14,7 @@
 
 O projeto surge como um desafio proposto durante o bootcamp, visando a criação de um ebook digital através da utilização das mais avançadas ferramentas de Inteligência Artificial. Abaixo, encontram-se listados os prompts que nortearão o desenvolvimento deste projeto.
 
-<a href="https://github.com/braziltaiany/prompts-como-criar-seu-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/braziltaiany/prompts-como-criar-seu-ebook/blob/main/output/Ebook%20Ai-900.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
