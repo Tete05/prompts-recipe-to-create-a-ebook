@@ -10,7 +10,7 @@
 # Projeto Prompts para Criar um EBOOK
 
 
- > ℹ️ **NOTE:** Este repositório foi elaborado durante o Bootcamp promovido pelo Santander na [DIO](https://dio.me) como um desafio, com a estrutura do readme proposta pelo professor [Felipe Aguiar](https://github.com/felipeAguiarCode)
+ > ℹ️ **NOTE:** Este repositório foi elaborado durante o Bootcamp promovido pelo Santander na [DIO](https://dio.me) como um desafio proposto pelo professor [Felipe Aguiar](https://github.com/felipeAguiarCode)
 
 O projeto surge como um desafio proposto durante o bootcamp, visando a criação de um ebook digital através da utilização das mais avançadas ferramentas de Inteligência Artificial. Abaixo, encontram-se listados os prompts que nortearão o desenvolvimento deste projeto.
 
@@ -37,7 +37,7 @@ Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Crie uma imagem de um hobbit, rumo a jornada do herói. Mas a temática é conseguir passar na prova AI-900 da Microsoft |
 
 ## ✨ Features
 
